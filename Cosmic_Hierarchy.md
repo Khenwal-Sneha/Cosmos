@@ -22,7 +22,7 @@
 - We are located on one of its outer arms
 - Sun nestled between Orion-Cygnus arm (minor spiral arm)
 
-<img src="./img/milky_way.png" width="70" height="50" alt="Milky Way">
+<img src="./img/milky_way.png" width="250" height="250" alt="Milky Way">
 
 ### The Solar System
 - Sun + Eight planets + their moons + asteroids and comets
